@@ -1,5 +1,3 @@
-# React + Vite
-
 # KULLANILAN TEKNOLOJİLER
 - REACT
 - JS
